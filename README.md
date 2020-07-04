@@ -26,6 +26,18 @@
 
 * Getting Data
 	* [yfinance](./get-data/yfinance)
+	* [yahoofinancials](./get-data/yahoofinancials)
+* [Technical Indicators](./indicators)
+	* [MACD: Moving Average Convergence Divergence](./indicators/macd)
+	* [Bollinger Bands](./indicators/bollinger-bands)
+	* [RSI: Relative Strength Index](./indicators/rsi)
+	* [ADX: Average Directional Index](./indicators/adx)
+	* [Supertrend](./indicators/supertrend)
+	* [Renko Charts](./indicators/renko-charts)
+
+## Resources
+
+* [Kite Zerodha](https://kite.zerodha.com)
 
 ## Glossary (A-Z)
 
